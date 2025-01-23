@@ -13,4 +13,4 @@ Changes in the config.js: customer guest username: "customer_gest" and business 
     git clone <GitHub repository link>
 ```
 
-2. Start the local liveserver (on path: 127.0.0.1:5500):
+2. Start the local liveserver (on path: 127.0.0.1:5500)
