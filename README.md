@@ -14,6 +14,3 @@ Changes in the config.js: customer guest username: "customer_gest" and business 
 ```
 
 2. Start the local liveserver (on path: 127.0.0.1:5500):
-```
-    python -m venv env
-```
