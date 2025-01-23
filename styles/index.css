@@ -90,6 +90,11 @@ h1{
     max-width: 1440px;
 }
 
+.privacy_policy {
+    padding: 0 32px;
+    text-align: center;
+}
+
 @media only screen and (min-width: 1024px) and (max-width: 1124px) {
     .landingheader_box {
         height: 500px;
@@ -149,6 +154,10 @@ h1{
     .green_info_section > section > h2, .green_info_section > section > div{
         width: 100%;
     }
+
+    .privacy_policy {
+        padding: 0 16px;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -169,7 +178,12 @@ h1{
     .green_info_section > section{
         flex-direction: column;
     }
+
     .green_info_section > section > h2, .green_info_section > section > div{
         width: 100%;
+    }
+
+    .privacy_policy {
+        padding: 0 8px;
     }
 }
