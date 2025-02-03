@@ -9,8 +9,8 @@ const GUEST_LOGINS = {
     }
 }
 
-const API_BASE_URL = 'http://34.91.116.137/api/';
-const STATIC_BASE_URL = 'http://34.91.116.137/';
+const API_BASE_URL = 'https://coderr-backend.tobias-reize.de/api/';
+const STATIC_BASE_URL = 'https://coderr-backend.tobias-reize.de/';
 
 
 const LOGIN_URL = 'login/';
